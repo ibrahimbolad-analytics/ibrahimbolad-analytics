@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Data%20Analyst%20|%20BI%20Specialist&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Data%20Analyst%20|%20Analytics%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 # Hi 👋 I'm Ibrahim
 
